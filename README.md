@@ -54,7 +54,7 @@ Projet en C sous windows utilisant :
 
 ### Rejoindre le projet GIT
 ```bash
-git clone git@github.com:Loki1412e/Gougou.git
+git clone git@github.com:ptitmorceaux/Gougou.git
 ```
 
 ### GCC et Make (via MSYS2)

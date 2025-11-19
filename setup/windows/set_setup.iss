@@ -3,8 +3,8 @@
 
 #define MyAppName "Gougou Gaga"
 #define MyAppVersion "0.0000001"
-#define MyAppPublisher "Loki1412e"
-; #define MyAppURL "https://github.com/Loki1412e/Gougou"
+#define MyAppPublisher "ptitmorceaux"
+; #define MyAppURL "https://github.com/ptitmorceaux/Gougou"
 #define MyAppExeName "gougou.exe"
 
 [Setup]
