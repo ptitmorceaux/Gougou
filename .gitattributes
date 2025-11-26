@@ -1,2 +1,2 @@
 # Ignore Inno Setup
-*.iss linguist-vendored
+setup/windows/* linguist-vendored
